@@ -14,7 +14,7 @@ if ( $text == "" ) {
 }
 
 else if ($text == "1") {
-  $response  = "Kuwa 28 Werurwe 2020 saa 18:21\n Mugihugu hose hamaze kwandura abantu 50\n\n";
+  $response  = "CON Kuwa 28 Werurwe 2020 saa 18:21\n Mugihugu hose hamaze kwandura abantu 50\n\n";
   $response .= "1.Mu ntara urimo\n";
   $response .= "2.Mu zindi ntara\n";
   $response .= "\n0.Ahabanza\n";
